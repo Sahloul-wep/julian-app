@@ -1,0 +1,15 @@
+{
+  "name": "محول التاريخ الجولياني",
+  "short_name": "جولياني",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1abc9c",
+  "theme_color": "#3498db",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
